@@ -1,0 +1,3 @@
+kyro=github.nowsoar.serialize.kyro.KryoSerializer
+protostuff=github.nowsoar.serialize.protostuff.ProtostuffSerializer
+hessian=github.nowsoar.serialize.hessian.HessianSerializer
